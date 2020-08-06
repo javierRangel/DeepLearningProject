@@ -3,8 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - time  
-  - numpy=1.11.3
-  - h5py=2.6.0
+  - numpy
+  - h5py
   - matplotlib
-  - scipy=0.18.1
+  - scipy
   - pillow
