@@ -7,5 +7,4 @@ dependencies:
   - h5py
   - matplotlib
   - scipy
- - pillow
-
+  - pillow
