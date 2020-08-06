@@ -5,5 +5,5 @@ dependencies:
   - time  
   - numpy
   - h5py
-  - matplotlib.pyplot
+  - matplotlib
   - scipy
